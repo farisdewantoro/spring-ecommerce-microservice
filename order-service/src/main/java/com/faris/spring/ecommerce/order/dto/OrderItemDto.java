@@ -1,4 +1,4 @@
-package com.faris.spring.ecommerce.core.dto;
+package com.faris.spring.ecommerce.order.dto;
 
 import lombok.*;
 

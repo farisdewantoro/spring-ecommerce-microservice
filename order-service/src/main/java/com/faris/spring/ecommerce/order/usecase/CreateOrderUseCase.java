@@ -1,7 +1,7 @@
 package com.faris.spring.ecommerce.order.usecase;
 
-import com.faris.spring.ecommerce.core.dto.CreateOrderDto;
-import com.faris.spring.ecommerce.core.dto.OrderItemDto;
+import com.faris.spring.ecommerce.order.dto.CreateOrderDto;
+import com.faris.spring.ecommerce.order.dto.OrderItemDto;
 
 import java.util.List;
 

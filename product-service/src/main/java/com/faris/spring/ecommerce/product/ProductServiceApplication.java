@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 @SpringBootApplication(scanBasePackages = "com.faris.spring.ecommerce",
         exclude = SecurityAutoConfiguration.class //disable security temporary
 )
-public class SpringEcommerceApplication {
+public class ProductServiceApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringEcommerceApplication.class, args);
+        SpringApplication.run(ProductServiceApplication.class, args);
     }
 }

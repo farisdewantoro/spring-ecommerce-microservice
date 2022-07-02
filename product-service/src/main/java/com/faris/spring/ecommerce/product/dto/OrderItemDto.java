@@ -1,14 +1,14 @@
 package com.faris.spring.ecommerce.product.dto;
 
-import lombok.Builder;
-import lombok.Data;
-import lombok.ToString;
+import lombok.*;
 
 import java.io.Serializable;
 
 @Data
 @Builder
 @ToString
+@AllArgsConstructor
+@NoArgsConstructor
 public class OrderItemDto implements Serializable {
 
     private Long id;

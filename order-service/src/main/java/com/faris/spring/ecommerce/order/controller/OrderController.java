@@ -1,8 +1,8 @@
 package com.faris.spring.ecommerce.order.controller;
 
 import com.faris.spring.ecommerce.core.http.ApiResponse;
-import com.faris.spring.ecommerce.core.dto.CreateOrderDto;
-import com.faris.spring.ecommerce.core.dto.OrderItemDto;
+import com.faris.spring.ecommerce.order.dto.CreateOrderDto;
+import com.faris.spring.ecommerce.order.dto.OrderItemDto;
 import com.faris.spring.ecommerce.order.usecase.CreateOrderUseCase;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

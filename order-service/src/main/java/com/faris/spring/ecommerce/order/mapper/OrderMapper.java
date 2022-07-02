@@ -1,8 +1,8 @@
 package com.faris.spring.ecommerce.order.mapper;
 
-import com.faris.spring.ecommerce.core.dto.CreateOrderDto;
-import com.faris.spring.ecommerce.core.dto.CreateOrderItemDto;
-import com.faris.spring.ecommerce.core.dto.OrderItemDto;
+import com.faris.spring.ecommerce.order.dto.CreateOrderDto;
+import com.faris.spring.ecommerce.order.dto.CreateOrderItemDto;
+import com.faris.spring.ecommerce.order.dto.OrderItemDto;
 import com.faris.spring.ecommerce.order.model.Order;
 import com.faris.spring.ecommerce.order.model.OrderItem;
 
